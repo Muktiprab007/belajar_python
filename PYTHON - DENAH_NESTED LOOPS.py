@@ -18,8 +18,9 @@ for b in denah:
 
 kosong = 0
 for b in denah:
-  for k in denah:
+  for k in b:
     if k == 0:
       kosong += 1
 
 print(f"\nSisa kursi kosong: {kosong}")
+
