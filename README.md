@@ -1,2 +1,2 @@
 # belajar_python
-bismillah rutin setahun
+Trying to master python
